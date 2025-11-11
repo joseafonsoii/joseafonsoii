@@ -28,5 +28,3 @@
 ## ✨ Thanks for stopping by!  
 If you like what you see, feel free to **star ⭐** my projects and follow me for updates.  
 Let’s build something amazing together!
- cards showing most used languages, contributions, rank etc. :contentReference[oaicite:0]{index=0}  
-Example embed:
