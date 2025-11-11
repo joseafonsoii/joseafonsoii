@@ -1,9 +1,40 @@
-👋 Hi there! I'm José Antonio Afonso, but you can call me Akemi ! 🚀
+# Hi, I’m José António Afonso 👋  
+### Computer Science student · Passionate about Backend, Intelligent Systems & Data
 
-🌟 A passionate Computer Science student diving into the exciting world of Frontend & Backend Development, Data Engineering, and Cybersecurity. Always on the lookout for new challenges and opportunities to learn!
+> “Turning data into insights, and code into solutions.”
 
-🎸 When I'm not coding, you'll find me jamming to some rock and rap tunes or getting lost in the adventures of Astro Boy. 
+---
 
-🔍 Currently on a quest for my first job in tech—let's connect and build something amazing together!
+## 🚀 About Me  
+- I’m currently studying **Computer Science**, deeply fascinated by backend development, data systems and intelligent algorithms.  
+- My tech stack and interests include: **Java (Spring Boot)**, **Python**, **FastAPI**, **Django**, **SQL**, **LangChain**, **LangGraph**, data analytics & intelligent systems.  
+- I’m eager to build freelancing projects and real-world applications — from APIs to machine learning pipelines, and from databases to automation.
 
-💻 Code is my canvas, and I'm here to create masterpieces. Check out my projects and join me on this epic journey!
+---
+
+## 🧠 Top Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseafonsoii)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## 📫 Let’s Connect  
+I’m open to new projects, collaborations or freelancing opportunities.  
+- Email: `joseantonioafosno5@gmail.com`  
+- LinkedIn: `https://www.linkedin.com/in/jos%C3%A9-ant%C3%B3nio-afonso-9672b238a/`  
+
+
+---
+
+## 🛠️ Current Learning Focus  
+- Deepening knowledge in **backend architectures** (microservices, APIs with Spring Boot & FastAPI)  
+- Expanding into **data systems**, data pipelines, SQL optimization  
+- Exploring **LangChain / LangGraph** for intelligent data flows and AI-driven backend  
+- Building projects in **Python**, **Java**, and **SQL**
+
+---
+
+## ✨ Thanks for stopping by!  
+If you like what you see, feel free to **star ⭐** my projects and follow me for updates.  
+Let’s build something amazing together!
+ cards showing most used languages, contributions, rank etc. :contentReference[oaicite:0]{index=0}  
+Example embed:
