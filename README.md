@@ -15,14 +15,6 @@
 ## 🧠 Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseafonsoii)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-## 📫 Let’s Connect  
-I’m open to new projects, collaborations or freelancing opportunities.  
-- Email: `joseantonioafosno5@gmail.com`  
-- LinkedIn: `https://www.linkedin.com/in/jos%C3%A9-ant%C3%B3nio-afonso-9672b238a/`  
-
-
 ---
 
 ## 🛠️ Current Learning Focus  
