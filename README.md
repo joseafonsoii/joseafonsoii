@@ -12,6 +12,10 @@
 
 ---
 
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseafonsoii&layout=compact)
+
+---
 ## 🛠️ Current Learning Focus  
 - Deepening knowledge in **backend architectures** (microservices, APIs with Spring Boot & FastAPI)  
 - Expanding into **data systems**, data pipelines, SQL optimization  
