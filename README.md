@@ -13,7 +13,7 @@
 ---
 
 ## Skillset
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,php,spring,fastapi,flask,docker,react,postgresql,mysql,langchain)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,php,spring,fastapi,flask,docker,react,postgresql,mysql)
 ---
 ## 🛠️ Current Learning Focus  
 - Deepening knowledge in **backend architectures** (microservices, APIs with Spring Boot & FastAPI)  
