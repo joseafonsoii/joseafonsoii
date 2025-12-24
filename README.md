@@ -1,4 +1,4 @@
-# Hi, I’m José António Afonso 👋  
+8# Hi, I’m José António Afonso 👋  
 ### Computer Science student · Passionate about Backend, Intelligent Systems & Data
 
 > “Turning data into insights, and code into solutions.”
@@ -13,7 +13,7 @@
 ---
 
 ## Skillset
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,php,spring,fastapi,flask,docker,react,postgresql,mysql,git,gcp)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,php,spring,fastapi,flask,docker,react,postgresql,mysql,mongodb,git,gcp,node)
 ---
 ## 🛠️ Current Learning Focus  
 - Deepening knowledge in **backend architectures** (microservices, APIs with Spring Boot & FastAPI)  
