@@ -12,9 +12,8 @@
 
 ---
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseafonsoii&layout=compact)
-
+## Skillset
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,php,spring,fastapi,flask,docker,react,postgresql,mysql,langchain)]
 ---
 ## 🛠️ Current Learning Focus  
 - Deepening knowledge in **backend architectures** (microservices, APIs with Spring Boot & FastAPI)  
